@@ -1,0 +1,13 @@
+*.log
+
+.vscode
+.idea
+.DS_Store
+
+__pycache__
+
+data/couchdb/*
+data/humor-recognition-master
+data/joke-dataset
+
+src/razmetchik/*.csv
